@@ -1,0 +1,61 @@
+.campaign-img{
+    text-align: center;
+    align-items: center;
+}
+
+.full_page{
+    padding-top: 10%;
+}
+.left-img{
+    text-align: left;
+}
+.right-img{
+    text-align: right;
+}
+
+.information{
+    font-family: karla;
+}
+.page_heading{
+    font-family: Rubik;
+
+}
+
+.give_space{
+    margin-top: 10%;
+}
+.para_text
+{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;  
+    padding-right: 1%;
+    padding-left: 1%;
+    color:#696969;
+}
+.image-class{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+@media screen and (max-width: 900px) {
+
+    .full_page{
+        padding-top: 25%;
+    }
+    .left-img{
+        text-align:center;
+        margin-top: 2%;
+    margin-bottom: 2%;
+    }
+    .right-img{
+        text-align:center;
+        margin-top: 2%;
+    margin-bottom: 2%;
+    }
+    .para_text{
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+}
