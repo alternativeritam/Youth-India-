@@ -81,6 +81,7 @@ body {
   background-position: center;
   background-size: cover;
   border-radius: 50%;
+  background : url("https://www.messengerpeople.com/wp-content/uploads/2018/08/erfolge-chatbots.png");
 }
 #msg-bubble {
   max-width: 450px;
